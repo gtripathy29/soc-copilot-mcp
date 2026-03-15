@@ -2,7 +2,7 @@
 
 🌐 **[https://soc-copilot-mcp.onrender.com](https://soc-copilot-mcp.onrender.com)**
 
-Paste your Anthropic API key and start investigating threats immediately.
+Paste your LLM API key and start investigating threats immediately.
 > Note: First request may take 30-50 seconds if server has been inactive (free tier sleep).
 
 # SOC Copilot MCP
