@@ -1,3 +1,10 @@
+## Live Demo
+
+🌐 **[https://soc-copilot-mcp.onrender.com](https://soc-copilot-mcp.onrender.com)**
+
+Paste your Anthropic API key and start investigating threats immediately.
+> Note: First request may take 30-50 seconds if server has been inactive (free tier sleep).
+
 # SOC Copilot MCP
 
 > An AI-native security investigation assistant that correlates multi-source threat intelligence, maps to MITRE ATT&CK, and generates incident reports — replacing 2 hours of analyst work with a single prompt.
